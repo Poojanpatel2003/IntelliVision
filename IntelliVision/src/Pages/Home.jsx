@@ -27,7 +27,7 @@ function Home() {
         <p className={styles.headerSubheading}>
           Revolutionizing Document Management and Face Recognition with Cutting-Edge Technology
         </p>
-        <button className={styles.headerButton}><a href="https://github.com/Neel-1478/IntelliVision">Go to Github</a></button>
+        <button className={styles.headerButton}><a href="https://github.com/Poojanpatel2003/IntelliVision">Go to Github</a></button>
       </div>
 
       <div className={styles.introSection}>
